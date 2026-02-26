@@ -195,3 +195,4 @@ Then log in at http://localhost:3000/login
 | Auth      | JWT (jjwt 0.11.5), BCrypt |
 | Frontend  | React 18, React Router v6, Axios |
 | Build     | Maven (backend), npm / Create React App (frontend) |
+"# BANK_APP" 
